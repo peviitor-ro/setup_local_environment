@@ -1,7 +1,7 @@
 # setup_local_environment
 scripts to setup the local environment
 
-Assuming you have WAMP installed on your Windows machine
+**Assuming** you have WAMP installed on your Windows machine on port 81
 
 to setup the local environment you will need:
 
