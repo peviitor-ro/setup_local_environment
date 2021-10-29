@@ -1,6 +1,7 @@
 # setup_local_environment
 scripts to setup the local environment
 
+Assuming you have WAMP installed on your Windows machine
 
 to setup the local environment you will need:
 
@@ -18,3 +19,8 @@ to setup the local environment you will need:
    - start  `generate_data_in_SOLR.bat`
    ### GUI MODE
    - start `open_JMX_script_in_JMeter_GUI.bat`
+
+***
+* clone peviitor/api repo at `C:\wamp64\www\git\api.peviitor.ro` 
+* clone peviitor repo at `C:\wamp64\www\git\peviitor`
+***
