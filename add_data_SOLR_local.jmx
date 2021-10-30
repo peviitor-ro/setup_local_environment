@@ -45,7 +45,7 @@
               <collectionProp name="Arguments.arguments">
                 <elementProp name="" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
-                  <stringProp name="Argument.value">{&apos;delete&apos;: {&apos;query&apos;: &apos;company:&quot;.$company.&quot;&apos;}}</stringProp>
+                  <stringProp name="Argument.value">{&apos;delete&apos;: {&apos;query&apos;: &apos;company:&quot;${company}&quot;&apos;}}</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
               </collectionProp>
