@@ -1,9 +1,9 @@
 # setup_local_environment
 scripts to setup the local environment
 
-**Assuming** you have WAMP installed on your Windows machine on port 81
+**Assuming** you have WAMP installed on your Windows machine on port 81 in C:\wamp64\
 
-to setup the local environment you will need:
+to setup the local environment you will need to:
 
 - [ ] install SOLR on local machine
   
